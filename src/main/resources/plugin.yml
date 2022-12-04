@@ -1,0 +1,8 @@
+name: Fanarialogs
+version: '${project.version}'
+main: me.zoxymodz.fanarialogs.Fanarialogs
+authors: [ ZoxyModz ]
+website: zoxymodz.me
+commands:
+  test:
+  fanarialogs:

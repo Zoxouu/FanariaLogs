@@ -1,0 +1,11 @@
+{
+  "ignored": [
+    "player1",
+    "player2"
+  ],
+  "locked": [
+    "shot give",
+    "eco give",
+    "gmc"
+  ]
+}
